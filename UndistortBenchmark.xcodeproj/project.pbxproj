@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		EB2D24602A3B4ADA003FC60C /* UndistortBenchmark */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = UndistortBenchmark; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB2D24632A3B4ADA003FC60C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		EBC15DEC2A616DBC00F74F9E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		EB2D24572A3B4ADA003FC60C = {
 			isa = PBXGroup;
 			children = (
+				EBC15DEC2A616DBC00F74F9E /* README.md */,
 				EB2D24622A3B4ADA003FC60C /* UndistortBenchmark */,
 				EB2D24612A3B4ADA003FC60C /* Products */,
 			);

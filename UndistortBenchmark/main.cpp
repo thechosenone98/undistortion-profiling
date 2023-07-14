@@ -15,11 +15,6 @@ int main()
     double p1, p2;
     double s1, s2, s3, s4;
     
-    /* BEGIN: Set the parameters
-    ...
-    ...
-    ...
-       END: Set the parameters*/
     fx = 320;
     fy = 240;
     cx = 160;
